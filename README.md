@@ -1,2 +1,5 @@
-# local-bakery-shiraz-traditional-1405
-نانوایی سنتی شیراز — نان تازه و کلاسیک ایرانی
+# نانوایی سنتی شیراز
+
+صفحه کسب‌وکار محلی فارسی RTL.
+
+https://beig-rules.github.io/local-bakery-shiraz-traditional-1405/
